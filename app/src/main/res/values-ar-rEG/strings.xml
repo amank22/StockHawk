@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">الأسهم هوك</string>
+
+    <string name="action_settings">إعدادات</string>
+    <string name="action_change_units">وحدات التغيير</string>
+    <string name="symbol_search">البحث الرمز</string>
+    <string name="content_test">بحث عن الأوراق المالية رمز</string>
+    <string name="network_toast">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+    <string name="desc_new_stocks">إضافة أسهم جديدة</string>
+</resources>
